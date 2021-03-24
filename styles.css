@@ -1,0 +1,57 @@
+/* Variables */
+
+:root {
+    --background :#fffefe;
+    --text: #2d2d2d;
+    --grey: #aaaaaa;
+    --section-one: #dddddd;
+    --section-two: #f38094;
+}
+
+
+/* Tags */
+
+html {
+    scroll-behavior: smooth;
+}
+
+section {
+    background-color: var(--section-one);
+}
+
+h1 {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 800;
+
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 700;
+}
+
+h3 {    
+    font-family: 'Roboto', sans-serif;
+    font-size: 600;
+}
+
+h4 {
+
+}
+
+h5 {
+    
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Classes */
+
+.section-two{
+    background-color: var(--section-two);
+}
+
+
+/* ID's */
